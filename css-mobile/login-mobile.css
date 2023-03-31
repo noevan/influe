@@ -1,0 +1,21 @@
+@media screen and (max-width: 768px) {
+    body{
+    height: 100vh;
+    width: 20vw;
+    padding: 10% 5%;
+}
+
+
+.signup{
+    margin-left: 40px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.link{
+    text-decoration: none;
+    cursor: pointer;
+    padding-top: 15px;
+    margin-left: 5px;
+}
+}
